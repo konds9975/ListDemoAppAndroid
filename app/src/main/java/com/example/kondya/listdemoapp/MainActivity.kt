@@ -63,7 +63,7 @@ class MainActivity : AppCompatActivity() {
 
 
             return rowMain
-
+//
 //            val textView = TextView(mContext)
 //            textView.text = "This is my Row for my ListView"
 //            return textView
